@@ -1,0 +1,6 @@
+FROM rockylinux:8
+
+WORKDIR /
+COPY README.md .
+
+ENTRYPOINT []
